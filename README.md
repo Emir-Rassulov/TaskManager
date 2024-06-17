@@ -16,17 +16,20 @@ Integrated with UserNotifications framework to schedule and manage task reminder
 
 
 # Usage
-## Adding a Task: Tap on "Add Task" button, fill in the details, and save.
-## Editing a Task: Tap on the task row to edit its details.
-## Setting Reminders: Toggle the Reminder switch and set the date/time and notification text.
-## Filtering Tasks: Tap on different tabs (Today, Upcoming, Completed, Failed) to view tasks based on their status.
+- Adding a Task: Tap on "Add Task" button, fill in the details, and save.
+- Editing a Task: Tap on the task row to edit its details.
+- Setting Reminders: Toggle the Reminder switch and set the date/time and notification text.
+- Filtering Tasks: Tap on different tabs (Today, Upcoming, Completed, Failed) to view tasks based on their status.
 
 # Dependencies
- - ## SwiftUI ##
- - ## CoreData ##
- - ## UserNotifications ##
-
+ - SwiftUI 
+ - CoreData
+ - UserNotifications
 
 # Acknowledgments
 This app was developed as part of learning SwiftUI and CoreData.
+
+
+
+https://github.com/Emir-Rassulov/TaskManager/assets/141578993/73c52ce7-6287-4adf-bf91-ba95ce48468b
 
